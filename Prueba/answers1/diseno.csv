@@ -1,0 +1,217 @@
+Valuador,Muestra,NombreProducto,CodigoProducto,CodigoMuestra
+ALBERTO PENIZZOTTO,1,TC1,Vino_1,M199
+ALBERTO PENIZZOTTO,2,TM1,Vino_2,M895
+ALBERTO PENIZZOTTO,3,ABC1,Vino_3,M740
+ALBERTO PENIZZOTTO,4,MBM2,Vino_4,M3
+ALBERTO PENIZZOTTO,5,TM2,Vino_5,M629
+ALBERTO PENIZZOTTO,6,TRC3,Vino_6,M600
+Mario,1,TC1,Vino_1,M361
+Mario,2,TM1,Vino_2,M421
+Mario,3,ABC1,Vino_3,M140
+Mario,4,MBM2,Vino_4,M300
+Mario,5,TM2,Vino_5,M444
+Mario,6,TRC3,Vino_6,M186
+Karina Marusic ,1,TC1,Vino_1,M517
+Karina Marusic ,2,TM1,Vino_2,M125
+Karina Marusic ,3,ABC1,Vino_3,M138
+Karina Marusic ,4,MBM2,Vino_4,M468
+Karina Marusic ,5,TM2,Vino_5,M13
+Karina Marusic ,6,TRC3,Vino_6,M670
+Alberto ,1,TC1,Vino_1,M970
+Alberto ,2,TM1,Vino_2,M715
+Alberto ,3,ABC1,Vino_3,M280
+Alberto ,4,MBM2,Vino_4,M858
+Alberto ,5,TM2,Vino_5,M939
+Alberto ,6,TRC3,Vino_6,M565
+Mario walter mor.on,1,TC1,Vino_1,M792
+Mario walter mor.on,2,TM1,Vino_2,M648
+Mario walter mor.on,3,ABC1,Vino_3,M474
+Mario walter mor.on,4,MBM2,Vino_4,M930
+Mario walter mor.on,5,TM2,Vino_5,M315
+Mario walter mor.on,6,TRC3,Vino_6,M359
+Gonzalo M.,1,TC1,Vino_1,M793
+Gonzalo M.,2,TM1,Vino_2,M513
+Gonzalo M.,3,ABC1,Vino_3,M909
+Gonzalo M.,4,MBM2,Vino_4,M456
+Gonzalo M.,5,TM2,Vino_5,M761
+Gonzalo M.,6,TRC3,Vino_6,M891
+Gerardo ,1,TC1,Vino_1,M461
+Gerardo ,2,TM1,Vino_2,M333
+Gerardo ,3,ABC1,Vino_3,M677
+Gerardo ,4,MBM2,Vino_4,M11
+Gerardo ,5,TM2,Vino_5,M978
+Gerardo ,6,TRC3,Vino_6,M379
+Juan g,1,TC1,Vino_1,M953
+Juan g,2,TM1,Vino_2,M82
+Juan g,3,ABC1,Vino_3,M714
+Juan g,4,MBM2,Vino_4,M878
+Juan g,5,TM2,Vino_5,M643
+Juan g,6,TRC3,Vino_6,M329
+Diego G.,1,TC1,Vino_1,M95
+Diego G.,2,TM1,Vino_2,M430
+Diego G.,3,ABC1,Vino_3,M839
+Diego G.,4,MBM2,Vino_4,M294
+Diego G.,5,TM2,Vino_5,M439
+Diego G.,6,TRC3,Vino_6,M873
+Luis ,1,TC1,Vino_1,M288
+Luis ,2,TM1,Vino_2,M935
+Luis ,3,ABC1,Vino_3,M538
+Luis ,4,MBM2,Vino_4,M354
+Luis ,5,TM2,Vino_5,M582
+Luis ,6,TRC3,Vino_6,M60
+Belén C,1,TC1,Vino_1,M286
+Belén C,2,TM1,Vino_2,M17
+Belén C,3,ABC1,Vino_3,M66
+Belén C,4,MBM2,Vino_4,M843
+Belén C,5,TM2,Vino_5,M702
+Belén C,6,TRC3,Vino_6,M795
+Carina,1,TC1,Vino_1,M136
+Carina,2,TM1,Vino_2,M365
+Carina,3,ABC1,Vino_3,M243
+Carina,4,MBM2,Vino_4,M386
+Carina,5,TM2,Vino_5,M110
+Carina,6,TRC3,Vino_6,M526
+Karina Marusic,1,TC1,Vino_1,M108
+Karina Marusic,2,TM1,Vino_2,M411
+Karina Marusic,3,ABC1,Vino_3,M509
+Karina Marusic,4,MBM2,Vino_4,M100
+Karina Marusic,5,TM2,Vino_5,M922
+Karina Marusic,6,TRC3,Vino_6,M450
+Carla,1,TC1,Vino_1,M131
+Carla,2,TM1,Vino_2,M913
+Carla,3,ABC1,Vino_3,M542
+Carla,4,MBM2,Vino_4,M539
+Carla,5,TM2,Vino_5,M724
+Carla,6,TRC3,Vino_6,M253
+Adrián ,1,TC1,Vino_1,M68
+Adrián ,2,TM1,Vino_2,M215
+Adrián ,3,ABC1,Vino_3,M347
+Adrián ,4,MBM2,Vino_4,M271
+Adrián ,5,TM2,Vino_5,M923
+Adrián ,6,TRC3,Vino_6,M639
+Martin ,1,TC1,Vino_1,M876
+Martin ,2,TM1,Vino_2,M746
+Martin ,3,ABC1,Vino_3,M780
+Martin ,4,MBM2,Vino_4,M455
+Martin ,5,TM2,Vino_5,M950
+Martin ,6,TRC3,Vino_6,M656
+Guillermo Diaz,1,TC1,Vino_1,M229
+Guillermo Diaz,2,TM1,Vino_2,M458
+Guillermo Diaz,3,ABC1,Vino_3,M367
+Guillermo Diaz,4,MBM2,Vino_4,M467
+Guillermo Diaz,5,TM2,Vino_5,M301
+Guillermo Diaz,6,TRC3,Vino_6,M658
+Mariel,1,TC1,Vino_1,M523
+Mariel,2,TM1,Vino_2,M668
+Mariel,3,ABC1,Vino_3,M70
+Mariel,4,MBM2,Vino_4,M179
+Mariel,5,TM2,Vino_5,M105
+Mariel,6,TRC3,Vino_6,M586
+Belen,1,TC1,Vino_1,M583
+Belen,2,TM1,Vino_2,M836
+Belen,3,ABC1,Vino_3,M124
+Belen,4,MBM2,Vino_4,M508
+Belen,5,TM2,Vino_5,M121
+Belen,6,TRC3,Vino_6,M39
+Diego,1,TC1,Vino_1,M889
+Diego,2,TM1,Vino_2,M514
+Diego,3,ABC1,Vino_3,M117
+Diego,4,MBM2,Vino_4,M410
+Diego,5,TM2,Vino_5,M346
+Diego,6,TRC3,Vino_6,M566
+Agostina ,1,TC1,Vino_1,M682
+Agostina ,2,TM1,Vino_2,M559
+Agostina ,3,ABC1,Vino_3,M130
+Agostina ,4,MBM2,Vino_4,M127
+Agostina ,5,TM2,Vino_5,M681
+Agostina ,6,TRC3,Vino_6,M161
+daniela,1,TC1,Vino_1,M27
+daniela,2,TM1,Vino_2,M753
+daniela,3,ABC1,Vino_3,M665
+daniela,4,MBM2,Vino_4,M503
+daniela,5,TM2,Vino_5,M489
+daniela,6,TRC3,Vino_6,M631
+Mariano Egea,1,TC1,Vino_1,M449
+Mariano Egea,2,TM1,Vino_2,M783
+Mariano Egea,3,ABC1,Vino_3,M660
+Mariano Egea,4,MBM2,Vino_4,M254
+Mariano Egea,5,TM2,Vino_5,M464
+Mariano Egea,6,TRC3,Vino_6,M220
+Agostina,1,TC1,Vino_1,M69
+Agostina,2,TM1,Vino_2,M730
+Agostina,3,ABC1,Vino_3,M798
+Agostina,4,MBM2,Vino_4,M103
+Agostina,5,TM2,Vino_5,M305
+Agostina,6,TRC3,Vino_6,M351
+Nicolás Bonomi ,1,TC1,Vino_1,M274
+Nicolás Bonomi ,2,TM1,Vino_2,M533
+Nicolás Bonomi ,3,ABC1,Vino_3,M770
+Nicolás Bonomi ,4,MBM2,Vino_4,M393
+Nicolás Bonomi ,5,TM2,Vino_5,M965
+Nicolás Bonomi ,6,TRC3,Vino_6,M555
+Mauricio ,1,TC1,Vino_1,M516
+Mauricio ,2,TM1,Vino_2,M853
+Mauricio ,3,ABC1,Vino_3,M568
+Mauricio ,4,MBM2,Vino_4,M664
+Mauricio ,5,TM2,Vino_5,M880
+Mauricio ,6,TRC3,Vino_6,M262
+Alberto 1,1,TC1,Vino_1,M612
+Alberto 1,2,TM1,Vino_2,M774
+Alberto 1,3,ABC1,Vino_3,M888
+Alberto 1,4,MBM2,Vino_4,M522
+Alberto 1,5,TM2,Vino_5,M500
+Alberto 1,6,TRC3,Vino_6,M703
+Juan Lo Castro,1,TC1,Vino_1,M442
+Juan Lo Castro,2,TM1,Vino_2,M248
+Juan Lo Castro,3,ABC1,Vino_3,M844
+Juan Lo Castro,4,MBM2,Vino_4,M882
+Juan Lo Castro,5,TM2,Vino_5,M40
+Juan Lo Castro,6,TRC3,Vino_6,M572
+Hernan,1,TC1,Vino_1,M983
+Hernan,2,TM1,Vino_2,M225
+Hernan,3,ABC1,Vino_3,M320
+Hernan,4,MBM2,Vino_4,M335
+Hernan,5,TM2,Vino_5,M755
+Hernan,6,TRC3,Vino_6,M971
+ALEJANDRO,1,TC1,Vino_1,M662
+ALEJANDRO,2,TM1,Vino_2,M831
+ALEJANDRO,3,ABC1,Vino_3,M156
+ALEJANDRO,4,MBM2,Vino_4,M267
+ALEJANDRO,5,TM2,Vino_5,M604
+ALEJANDRO,6,TRC3,Vino_6,M429
+Martin,1,TC1,Vino_1,M813
+Martin,2,TM1,Vino_2,M81
+Martin,3,ABC1,Vino_3,M63
+Martin,4,MBM2,Vino_4,M553
+Martin,5,TM2,Vino_5,M115
+Martin,6,TRC3,Vino_6,M12
+Martin bis,1,TC1,Vino_1,M169
+Martin bis,2,TM1,Vino_2,M706
+Martin bis,3,ABC1,Vino_3,M83
+Martin bis,4,MBM2,Vino_4,M764
+Martin bis,5,TM2,Vino_5,M685
+Martin bis,6,TRC3,Vino_6,M240
+Luis,1,TC1,Vino_1,M848
+Luis,2,TM1,Vino_2,M317
+Luis,3,ABC1,Vino_3,M8
+Luis,4,MBM2,Vino_4,M687
+Luis,5,TM2,Vino_5,M828
+Luis,6,TRC3,Vino_6,M577
+Agostina 2,1,TC1,Vino_1,M563
+Agostina 2,2,TM1,Vino_2,M163
+Agostina 2,3,ABC1,Vino_3,M462
+Agostina 2,4,MBM2,Vino_4,M961
+Agostina 2,5,TM2,Vino_5,M292
+Agostina 2,6,TRC3,Vino_6,M747
+Karina2,1,TC1,Vino_1,M79
+Karina2,2,TM1,Vino_2,M196
+Karina2,3,ABC1,Vino_3,M212
+Karina2,4,MBM2,Vino_4,M1
+Karina2,5,TM2,Vino_5,M237
+Karina2,6,TRC3,Vino_6,M418
+Luis 2,1,TC1,Vino_1,M689
+Luis 2,2,TM1,Vino_2,M257
+Luis 2,3,ABC1,Vino_3,M374
+Luis 2,4,MBM2,Vino_4,M521
+Luis 2,5,TM2,Vino_5,M972
+Luis 2,6,TRC3,Vino_6,M838
