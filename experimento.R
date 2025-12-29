@@ -39,5 +39,5 @@ run_panel(
 
 
 
-run_board(answers_dir = "grupo_f25/answers_f25/")
+run_board(answers_dir = "grupo_f2/answers_f2/")
 # Llegue hasta la 24 inclusive
